@@ -1,0 +1,7 @@
+- [x] Install react-router-dom
+- [x] Create src/components/Home.jsx with biodata table
+- [x] Create src/components/About.jsx with placeholder content
+- [x] Create src/components/Contact.jsx with placeholder content
+- [x] Modify src/App.jsx to include navigation bar and routing
+- [x] Update src/main.jsx for BrowserRouter
+- [ ] Run the app to test
